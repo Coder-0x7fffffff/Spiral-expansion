@@ -1,4 +1,4 @@
-# SpiralExpansion #
+# Spiral Expansion #
 The first question of the first semester in CUG
 
 ## 【需求规格说明】 ##
