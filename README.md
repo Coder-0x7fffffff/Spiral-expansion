@@ -1,5 +1,4 @@
 # Spiral expansion #
-The first question of the first semester in CUG
 
 ## 【需求规格说明】 ##
 给定一个整数 n，从 n 开始向外螺旋展开，如下 
